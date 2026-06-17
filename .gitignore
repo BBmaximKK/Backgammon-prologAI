@@ -3,3 +3,5 @@ stats/
 release
 
 build_portable.ps1
+
+.gitignore
