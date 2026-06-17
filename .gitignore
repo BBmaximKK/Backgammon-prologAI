@@ -1,4 +1,5 @@
 .vscode/
 stats/
-release/
-C_Engine/build_portable.ps1
+release
+
+build_portable.ps1
