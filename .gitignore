@@ -1,7 +1,3 @@
-.vscode/
 stats/
-release
-
-build_portable.ps1
-
-.gitignore
+release/
+.vscode/
