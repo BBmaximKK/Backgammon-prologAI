@@ -1,0 +1,4 @@
+.vscode/
+stats/
+release/
+C_Engine/build_portable.ps1
